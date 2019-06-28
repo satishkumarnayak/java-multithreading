@@ -1,4 +1,4 @@
-package com.instanceofcake.multithreading;
+package com.instanceofcake.multithreading.sequential;
 
 public class Sequential {
 
