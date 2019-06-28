@@ -1,12 +1,12 @@
 package com.instanceofcake.multithreading.syncronized;
 
-public class Syncronized {
+public class Synchronized {
 
 	int counter;
 
 	public static void main(String[] args) {
 
-		Syncronized syncronized = new Syncronized();
+		Synchronized syncronized = new Synchronized();
 		syncronized.process();
 
 	}

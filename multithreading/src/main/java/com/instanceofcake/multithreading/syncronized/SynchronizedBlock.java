@@ -1,6 +1,6 @@
 package com.instanceofcake.multithreading.syncronized;
 
-public class SyncronizedBlock {
+public class SynchronizedBlock {
 
 	int count1;
 	int count2;
@@ -26,7 +26,7 @@ public class SyncronizedBlock {
 
 	public static void main(String[] args) {
 
-		SyncronizedBlock demo = new SyncronizedBlock();
+		SynchronizedBlock demo = new SynchronizedBlock();
 		demo.compute();
 
 	}
